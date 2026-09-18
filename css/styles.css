@@ -7,7 +7,9 @@ html {
   box-sizing: border-box;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
@@ -215,7 +217,7 @@ Profile Picture Container
 .profile-picture-container {
   display: grid;
   grid-template-columns: 170px 115px;
-  grid-template-rows: 176px;
+  grid-template-rows: 200px;
   grid-column-gap: 15px;
   margin-bottom: 12px;
 }
@@ -225,6 +227,8 @@ Profile Picture Container
 }
 
 .profile-pic {
+  width: auto;
+  height: 170px;
   grid-area: 1/1;
   margin-top: 10px;
   margin-bottom: 10px;
