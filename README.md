@@ -1,3 +1,2 @@
-# group.name.github.io
-CISC322/326 Website
-https://jeremy-mccrindle.github.io/group.name.github.io/
+# WEZER CISC 322/326 Group Project
+https://jeremy-mccrindle.github.io/wezer/
